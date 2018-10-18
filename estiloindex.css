@@ -1,0 +1,30 @@
+p.p1 {
+	font-size: 30pt;
+	color: red;}
+	
+html {
+	text-align: center;
+}
+
+img {
+    margin: 5px;
+    border: 5px;
+	border-style: double;
+	border-color: purple;
+	border-radius: 100px;
+    width: 300px;
+}
+
+hr {
+	display: block;
+    border-style: dotted;
+    border-width: 5px;
+	border-color: purple;
+
+}
+
+h1 {
+	 font-weight: 300;
+	text-shadow: 3px 2px grey;
+	font-size: 50px;
+}
